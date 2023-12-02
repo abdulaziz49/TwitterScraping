@@ -1,9 +1,5 @@
 # TwitterScraping
 ( This Program just for educational purpose )
-( This Program just for educational purpose )
-( This Program just for educational purpose )
-( This Program just for educational purpose )
-( This Program just for educational purpose )
 ---------------------------------------------
 Program idea:
 insert a sets of links in a txt file his name is Links.txt then using selenium to open that links one by one and scraping data from twitter.
